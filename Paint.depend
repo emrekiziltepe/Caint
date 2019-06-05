@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1478845562 source:c:\users\murat_karakoc\desktop\paint\main.cpp
+	<allegro.h>
+	<math.h>
+
+1480280660 source:c:\users\murat_karakoc\desktop\kouceng\paint_dosyalari\paint\main.cpp
+	<allegro.h>
+	<math.h>
+
